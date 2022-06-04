@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-04T06:08:26.003Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="DIY-3Zc_iZ8F7AKUZ00x" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-04T06:09:42.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.30" etag="6KwhQmKokASrQM6BLPg8" version="18.1.1" type="github">
   <diagram id="zS0Se3hdwLQitdmpyFe8" name="Page-1">
     <mxGraphModel dx="2426" dy="1358" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="SHP_Qj0Nu9hd27TtDfnc-40" value="Web Security group" style="fillColor=none;strokeColor=#FF0000;verticalAlign=bottom;fontStyle=0;fontColor=#DD3522;rounded=0;shadow=0;sketch=0;align=center;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="64" y="259" width="719" height="192" as="geometry" />
         </mxCell>
-        <mxCell id="NRysxFIgi6pyTUOMa4tL-1" value="US-East-1" style="swimlane;container=0;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="NRysxFIgi6pyTUOMa4tL-1" value="US-East-1" style="swimlane;container=0;strokeWidth=2;glass=0;shadow=1;rounded=0;fillColor=#000000;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="10" y="90" width="830" height="950" as="geometry" />
         </mxCell>
         <mxCell id="NRysxFIgi6pyTUOMa4tL-2" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;strokeWidth=3;" parent="1" vertex="1">
